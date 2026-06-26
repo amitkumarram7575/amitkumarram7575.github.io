@@ -1,0 +1,32 @@
+site_name: Cyber Security Notes
+
+nav:
+  - Profile: index.md
+  - About US:
+      - Resume: about/resume.md
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.path
+    - navigation.instant
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+
+plugins:
+  - search
+
+extra_css:
+  - core/statics/custom.css
