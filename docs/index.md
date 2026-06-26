@@ -2,7 +2,7 @@
 
 Committed to continuous learning and professional growth in cybersecurity. I break things, understand why they break, and write it all up so the knowledge doesn't stay locked away.
 
-## About us
+## About Me
 
 SOC Analyst aspirant with 4 years of Python development experience and hands-on cybersecurity training from TryHackMe. Skilled in Python, Linux, log analysis, SIEM, and threat detection. Passionate about cybersecurity and actively seeking SOC Analyst opportunities.
 
