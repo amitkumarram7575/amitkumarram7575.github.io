@@ -2,8 +2,15 @@ site_name: Cyber Security Notes
 
 nav:
   - Profile: index.md
-  - About US:
-      - Resume: about/resume.md
+  - Basic Knowledge:
+      - Web Browser Info: basic_knowledge/web_browser_info.md
+      - Linux Commands: basic_knowledge/linux_command.md
+
+  - SOC Analyst L1:
+    - Road Map: soc_analyst_l1/road_map.md
+    
+  - Important Topics:
+      - Topics List: important_topics/topic_list.md
 
 theme:
   name: material
